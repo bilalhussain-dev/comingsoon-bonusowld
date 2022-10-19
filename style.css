@@ -131,7 +131,7 @@ html, body {
   
   @media only screen and (min-width: 768px) {
     body {
-      background-image: url(https://assets.codepen.io/6060109/destop-bg.png);
+      background-image: url('./destop-bg.webp');
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
